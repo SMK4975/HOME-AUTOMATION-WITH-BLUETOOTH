@@ -130,6 +130,9 @@ This behavior mimics how an Arduino would behave with a real Bluetooth module re
    * `B` → LED2 ON
    * `b` → LED2 OFF
 
+## Output
+
+<img width="1919" height="998" alt="Image" src="https://github.com/user-attachments/assets/d974a9d5-92de-46ba-a0f4-df3ed9952483" />
 
 ## 🎯 Final Notes
 
